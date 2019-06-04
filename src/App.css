@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-sec {
+  width: 60%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.emp-details {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid #000;
+}
+
+.details-cntr {
+  width: 60%;
+  text-align: center;
+}
+
+.details-sec {
+  display: flex;
+  justify-content: space-between;
+  margin-top:20px;
+}
+
+.loader-sec {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
